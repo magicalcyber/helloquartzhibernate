@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="207969609">
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="3db5f967-df57-455b-80d9-ec4ec5221bfb">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/magicalcyber</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://D:\m2\repository\mysql\mysql-connector-java\5.1.31\mysql-connector-java-5.1.31.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
